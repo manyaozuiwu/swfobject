@@ -1,0 +1,4009 @@
+{
+    "Result": true,
+    "Message": "59031a47-3f72-44a7-89c5-5595fe6b30ee",
+    "BGPhoto": "http://api.ottclub.info/api/images/ptv/bg_1920.png",
+    "Logo": "http://api.ottclub.info/api/images/ptv/logo.png",
+    "HomeButton": "http://api.ottclub.info/api/images/mylive_home_icon.png",
+    "ResultCount": 200,
+    "ChannelList": [{
+        "ChannelListGUID": "6fbb0e2c-eaed-11e3-b214-00505601040c",
+        "Name": "CNN",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "1",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "4016a40c-eaf1-11e3-b214-00505601040c",
+            "Name": "CNN",
+            "Sort": "1",
+            "Url": "http://wc1.ottclub.info:1935/live/c175.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "10a95818-b0ea-11e3-b3a3-56b55c4f22cc",
+        "Name": "BBC",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "2",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "e5c6390b-b0ea-11e3-b3a3-56b55c4f22cc",
+            "Name": "BBC",
+            "Sort": "2",
+            "Url": "http://wc5.ottclub.info:1935/live/c177.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "8d3f1ecd-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "BBC lifestyle",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "3",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "c91de510-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "BBC lifestyle",
+            "Sort": "3",
+            "Url": "http://wc1.ottclub.info:1935/live/c219.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "10a95b12-b0ea-11e3-b3a3-56b55c4f22cc",
+        "Name": "公視 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "4",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "e5c63e6c-b0ea-11e3-b3a3-56b55c4f22cc",
+            "Name": "公視 HD",
+            "Sort": "4",
+            "Url": "http://wc1.ottclub.info:1935/live/c239.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "10a963bc-b0ea-11e3-b3a3-56b55c4f22cc",
+        "Name": "Z 頻道",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "5",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "e5c64334-b0ea-11e3-b3a3-56b55c4f22cc",
+            "Name": "Z 頻道",
+            "Sort": "5",
+            "Url": "http://wc1.ottclub.info:1935/live/c229.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "10a9635e-b0ea-11e3-b3a3-56b55c4f22cc",
+        "Name": "民視 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "6",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "e5c6429d-b0ea-11e3-b3a3-56b55c4f22cc",
+            "Name": "民視 HD",
+            "Sort": "6",
+            "Url": "http://wc5.ottclub.info:1935/live/c192.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "8d3f2408-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "FSTV HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "7",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "c91dea00-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "FSTV HD",
+            "Sort": "7",
+            "Url": "http://wc1.ottclub.info:1935/live/c193.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "8d3f2396-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "台視綜合台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "8",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "c91de96b-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "台視綜合台",
+            "Sort": "8",
+            "Url": "http://wc1.ottclub.info:1935/live/c171.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "10a9645d-b0ea-11e3-b3a3-56b55c4f22cc",
+        "Name": "中視 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "9",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "e5c64448-b0ea-11e3-b3a3-56b55c4f22cc",
+            "Name": "中視 HD",
+            "Sort": "9",
+            "Url": "http://wc1.ottclub.info:1935/live/c174.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "10a9640e-b0ea-11e3-b3a3-56b55c4f22cc",
+        "Name": "中視",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "10",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "e5c643c1-b0ea-11e3-b3a3-56b55c4f22cc",
+            "Name": "BRAVO 菁采台",
+            "Sort": "10",
+            "Url": "http://wc5.ottclub.info:1935/live/c201.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "10a96402-b0ea-11e3-b3a3-56b55c4f22cc",
+        "Name": "大愛 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "11",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "e5c6453f-b0ea-11e3-b3a3-56b55c4f22cc",
+            "Name": "大愛 HD",
+            "Sort": "11",
+            "Url": "http://wc1.ottclub.info:1935/live/c059.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "10a964ad-b0ea-11e3-b3a3-56b55c4f22cc",
+        "Name": "華視 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "12",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "e5c644c8-b0ea-11e3-b3a3-56b55c4f22cc",
+            "Name": "華視 HD",
+            "Sort": "12",
+            "Url": "http://wc1.ottclub.info:1935/live/c172.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb10fc-eaed-11e3-b214-00505601040c",
+        "Name": "探索科學台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "13",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "4016be42-eaf1-11e3-b214-00505601040c",
+            "Name": "探索科學台 HD",
+            "Sort": "13",
+            "Url": "http://wc1.ottclub.info:1935/live/c247.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb2358-eaed-11e3-b214-00505601040c",
+        "Name": "DMAX HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "14",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "4016d1fc-eaf1-11e3-b214-00505601040c",
+            "Name": "DMAX HD",
+            "Sort": "14",
+            "Url": "http://wc5.ottclub.info:1935/live/c200.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb2484-eaed-11e3-b214-00505601040c",
+        "Name": "EVE HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "15",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "4016d4f4-eaf1-11e3-b214-00505601040c",
+            "Name": "EVE HD",
+            "Sort": "15",
+            "Url": "http://wc1.ottclub.info:1935/live/c243.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "10a9654d-b0ea-11e3-b3a3-56b55c4f22cc",
+        "Name": "國家地理野生台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "16",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "e5c645b7-b0ea-11e3-b3a3-56b55c4f22cc",
+            "Name": "國家地理野生台 HD",
+            "Sort": "16",
+            "Url": "http://wc1.ottclub.info:1935/live/c207.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "10a96595-b0ea-11e3-b3a3-56b55c4f22cc",
+        "Name": "國家地理悠人台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "17",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "e5c64632-b0ea-11e3-b3a3-56b55c4f22cc",
+            "Name": "國家地理優人台 HD",
+            "Sort": "17",
+            "Url": "http://wc5.ottclub.info:1935/live/c245.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb2542-eaed-11e3-b214-00505601040c",
+        "Name": "國家地理頻道台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "18",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "4016d738-eaf1-11e3-b214-00505601040c",
+            "Name": "國家地理頻道台 HD",
+            "Sort": "18",
+            "Url": "http://wc1.ottclub.info:1935/live/c206.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb2600-eaed-11e3-b214-00505601040c",
+        "Name": "Discovery HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "19",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "4016d9c2-eaf1-11e3-b214-00505601040c",
+            "Name": "Discovery HD",
+            "Sort": "19",
+            "Url": "http://wc1.ottclub.info:1935/live/c244.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "e8314d60-b3ef-11e3-b3a3-56b55c4f22cc",
+        "Name": "TLC",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "20",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "94b14174-b3f0-11e3-b3a3-56b55c4f22cc",
+            "Name": "TLC",
+            "Sort": "20",
+            "Url": "http://wc1.ottclub.info:1935/live/c170.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "e8314f9c-b3ef-11e3-b3a3-56b55c4f22cc",
+        "Name": "動物星球台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "21",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "94b144fc-b3f0-11e3-b3a3-56b55c4f22cc",
+            "Name": "動物星球台",
+            "Sort": "21",
+            "Url": "http://wc5.ottclub.info:1935/live/c176.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "e831525c-b3ef-11e3-b3a3-56b55c4f22cc",
+        "Name": "卡通頻道台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "22",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "94b147f6-b3f0-11e3-b3a3-56b55c4f22cc",
+            "Name": "卡通頻道台",
+            "Sort": "22",
+            "Url": "http://wc1.ottclub.info:1935/live/c178.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "e83152be-b3ef-11e3-b3a3-56b55c4f22cc",
+        "Name": "迪士尼頻道台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "23",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "94b14880-b3f0-11e3-b3a3-56b55c4f22cc",
+            "Name": "迪士尼頻道台",
+            "Sort": "23",
+            "Url": "http://wc5.ottclub.info:1935/live/c198.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "e831530f-b3ef-11e3-b3a3-56b55c4f22cc",
+        "Name": "MOMO 親子台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "24",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "94b14b74-b3f0-11e3-b3a3-56b55c4f22cc",
+            "Name": "MOMO 親子台",
+            "Sort": "24",
+            "Url": "http://wc5.ottclub.info:1935/live/c168.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "e8315365-b3ef-11e3-b3a3-56b55c4f22cc",
+        "Name": "東森幼幼台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "25",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "94b14be9-b3f0-11e3-b3a3-56b55c4f22cc",
+            "Name": "東森幼幼台",
+            "Sort": "25",
+            "Url": "http://wc1.ottclub.info:1935/live/c227.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "e83153b4-b3ef-11e3-b3a3-56b55c4f22cc",
+        "Name": "緯來綜合台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "26",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "94b14c64-b3f0-11e3-b3a3-56b55c4f22cc",
+            "Name": "緯來綜合台",
+            "Sort": "26",
+            "Url": "http://wc1.ottclub.info:1935/live/c235.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "8d3f1c66-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "八大第一台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "27",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "c91de213-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "八大第一台 HD",
+            "Sort": "27",
+            "Url": "http://wc1.ottclub.info:1935/live/c157.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb274a-eaed-11e3-b214-00505601040c",
+        "Name": "八大綜合台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "28",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "4016df1c-eaf1-11e3-b214-00505601040c",
+            "Name": "八大綜合台 HD",
+            "Sort": "28",
+            "Url": "http://wc1.ottclub.info:1935/live/c197.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "e83153fc-b3ef-11e3-b3a3-56b55c4f22cc",
+        "Name": "三立台灣台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "29",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "94b14cdb-b3f0-11e3-b3a3-56b55c4f22cc",
+            "Name": "三立台灣台 HD",
+            "Sort": "29",
+            "Url": "http://wc1.ottclub.info:1935/live/c196.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "9a0e04c3-caa1-11e3-855c-56b55c4f22cc",
+        "Name": "三立都會台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "30",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "8fb672c9-caa2-11e3-855c-56b55c4f22cc",
+            "Name": "三立都會台 HD",
+            "Sort": "30",
+            "Url": "http://wc5.ottclub.info:1935/live/c159.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "9a0e075f-caa1-11e3-855c-56b55c4f22cc",
+        "Name": "衛視中文台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "31",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "8fb67a0b-caa2-11e3-855c-56b55c4f22cc",
+            "Name": "衛視中文台 HD",
+            "Sort": "31",
+            "Url": "http://wc1.ottclub.info:1935/live/c158.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "8d3f246a-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "東森綜合台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "32",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "c91deab7-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "東森綜合台",
+            "Sort": "32",
+            "Url": "http://wc1.ottclub.info:1935/live/c237.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "9a0e0c08-caa1-11e3-855c-56b55c4f22cc",
+        "Name": "東森超視台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "33",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "8fb67ef9-caa2-11e3-855c-56b55c4f22cc",
+            "Name": "東森超視台",
+            "Sort": "33",
+            "Url": "http://wc1.ottclub.info:1935/live/c195.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "9a0e0c75-caa1-11e3-855c-56b55c4f22cc",
+        "Name": "Channal M HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "34",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "8fb67f8a-caa2-11e3-855c-56b55c4f22cc",
+            "Name": "Channal M HD",
+            "Sort": "34",
+            "Url": "http://wc1.ottclub.info:1935/live/c240.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "9a0e0cd7-caa1-11e3-855c-56b55c4f22cc",
+        "Name": "KMTV HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "35",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "8fb68017-caa2-11e3-855c-56b55c4f22cc",
+            "Name": "KMTV HD",
+            "Sort": "35",
+            "Url": "http://wc1.ottclub.info:1935/live/c218.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "0ba8af19-cb5f-11e3-855c-56b55c4f22cc",
+        "Name": "中天綜合台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "36",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "b6fcc3af-cb60-11e3-855c-56b55c4f22cc",
+            "Name": "中天綜合台 HD",
+            "Sort": "36",
+            "Url": "http://wc5.ottclub.info:1935/live/c220.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "0ba8b2b7-cb5f-11e3-855c-56b55c4f22cc",
+        "Name": "東風衛視台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "37",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "b6fccc17-cb60-11e3-855c-56b55c4f22cc",
+            "Name": "東風衛視台",
+            "Sort": "37",
+            "Url": "http://wc1.ottclub.info:1935/live/c214.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "0ba8b782-cb5f-11e3-855c-56b55c4f22cc",
+        "Name": "MUCH 台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "38",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "b6fcceb2-cb60-11e3-855c-56b55c4f22cc",
+            "Name": "MUCH 台",
+            "Sort": "38",
+            "Url": "http://wc1.ottclub.info:1935/live/c226.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb26aa-eaed-11e3-b214-00505601040c",
+        "Name": "中天娛樂台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "39",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "4016dc56-eaf1-11e3-b214-00505601040c",
+            "Name": "中天娛樂台",
+            "Sort": "39",
+            "Url": "http://wc1.ottclub.info:1935/live/c228.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "0ba8b82f-cb5f-11e3-855c-56b55c4f22cc",
+        "Name": "東森戲劇台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "40",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "b6fccf46-cb60-11e3-855c-56b55c4f22cc",
+            "Name": "東森戲劇台",
+            "Sort": "40",
+            "Url": "http://wc1.ottclub.info:1935/live/c169.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "0ba8b8ff-cb5f-11e3-855c-56b55c4f22cc",
+        "Name": "八大戲劇台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "41",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "b6fccfcd-cb60-11e3-855c-56b55c4f22cc",
+            "Name": "八大戲劇台",
+            "Sort": "41",
+            "Url": "http://wc1.ottclub.info:1935/live/c215.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "0ba8b98a-cb5f-11e3-855c-56b55c4f22cc",
+        "Name": "TVBS 歡樂台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "42",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "b6fcd05b-cb60-11e3-855c-56b55c4f22cc",
+            "Name": "TVBS 歡樂台 HD",
+            "Sort": "42",
+            "Url": "http://wc5.ottclub.info:1935/live/c160.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb2e34-eaed-11e3-b214-00505601040c",
+        "Name": "緯來戲劇台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "43",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "40171784-eaf1-11e3-b214-00505601040c",
+            "Name": "緯來戲劇台",
+            "Sort": "43",
+            "Url": "http://wc1.ottclub.info:1935/live/c210.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb27ea-eaed-11e3-b214-00505601040c",
+        "Name": "星衛娛樂台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "44",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "4016e368-eaf1-11e3-b214-00505601040c",
+            "Name": "星衛娛樂台 HD",
+            "Sort": "44",
+            "Url": "http://wc1.ottclub.info:1935/live/c242.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb2894-eaed-11e3-b214-00505601040c",
+        "Name": "衛視合家歡台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "45",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "4016e6e2-eaf1-11e3-b214-00505601040c",
+            "Name": "衛視合家歡台",
+            "Sort": "45",
+            "Url": "http://wc1.ottclub.info:1935/live/c211.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "0ba8b9e7-cb5f-11e3-855c-56b55c4f22cc",
+        "Name": "JET 綜合台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "46",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "b6fcd0e0-cb60-11e3-855c-56b55c4f22cc",
+            "Name": "JET 綜合台",
+            "Sort": "46",
+            "Url": "http://wc5.ottclub.info:1935/live/c225.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547f3bf-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "DIVA HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "47",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3c9734-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "DIVA HD",
+            "Sort": "47",
+            "Url": "http://wc1.ottclub.info:1935/live/c156.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547f70e-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "SYFY HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "48",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3c9a29-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "SYFY HD",
+            "Sort": "48",
+            "Url": "http://wc1.ottclub.info:1935/live/c216.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547f78d-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "壹電視新聞台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "49",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3c9ad6-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "壹電視新聞台 HD",
+            "Sort": "49",
+            "Url": "http://wc5.ottclub.info:1935/live/c232.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547f7ed-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "年代新聞台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "50",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3c9f45-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "年代新聞台 HD",
+            "Sort": "50",
+            "Url": "http://wc5.ottclub.info:1935/live/c236.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547f84d-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "東森新聞台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "51",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3c9fdd-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "東森新聞台 HD",
+            "Sort": "51",
+            "Url": "http://wc5.ottclub.info:1935/live/c191.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547f8b4-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "中天新聞台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "52",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3ca0db-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "中天新聞台 HD",
+            "Sort": "52",
+            "Url": "http://wc5.ottclub.info:1935/live/c188.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547f90b-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "民視新聞台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "53",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3ca2be-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "民視新聞台 HD",
+            "Sort": "53",
+            "Url": "http://wc5.ottclub.info:1935/live/c187.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547f960-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "三立新聞台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "54",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3ca379-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "三立新聞台 HD",
+            "Sort": "54",
+            "Url": "http://wc5.ottclub.info:1935/live/c161.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547f9b6-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "TVBS 新聞台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "55",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3ca42e-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "TVBS 新聞台 HD",
+            "Sort": "55",
+            "Url": "http://wc5.ottclub.info:1935/live/c162.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547fa0b-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "TVBS 台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "56",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3ca4d6-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "TVBS 台 HD",
+            "Sort": "56",
+            "Url": "http://wc1.ottclub.info:1935/live/c189.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547fa5b-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "東森財經新聞台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "57",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3ca55a-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "東森財經新聞台",
+            "Sort": "57",
+            "Url": "http://wc1.ottclub.info:1935/live/c233.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547faad-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "非凡新聞台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "58",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3ca5e4-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "非凡新聞台",
+            "Sort": "58",
+            "Url": "http://wc1.ottclub.info:1935/live/c212.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547fb02-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "FOX CRIME HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "59",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3ca666-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "FOX CRIME HD",
+            "Sort": "59",
+            "Url": "http://wc1.ottclub.info:1935/live/c155.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547fb51-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "FX HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "60",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3ca6ec-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "FX HD",
+            "Sort": "60",
+            "Url": "http://wc1.ottclub.info:1935/live/c238.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547fba3-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "衛視電影台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "61",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3ca76e-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "衛視電影台",
+            "Sort": "61",
+            "Url": "http://wc1.ottclub.info:1935/live/c167.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547fbf4-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "東森電影台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "62",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3ca7e9-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "東森電影台",
+            "Sort": "62",
+            "Url": "http://wc1.ottclub.info:1935/live/c234.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547fc43-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "星衛電影台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "63",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3ca86d-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "星衛電影台 HD",
+            "Sort": "63",
+            "Url": "http://wc1.ottclub.info:1935/live/c205.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547fc96-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "美亞電影台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "64",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3caa31-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "美亞電影台 HD",
+            "Sort": "64",
+            "Url": "http://wc1.ottclub.info:1935/live/c204.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547fceb-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "HBO HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "65",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3caab7-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "HBO HD",
+            "Sort": "65",
+            "Url": "http://wc1.ottclub.info:1935/live/c185.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547fd3c-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "東森洋片台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "66",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3cab36-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "東森洋片台",
+            "Sort": "66",
+            "Url": "http://wc1.ottclub.info:1935/live/c194.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb2934-eaed-11e3-b214-00505601040c",
+        "Name": "福斯家庭電影台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "67",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "4016ea70-eaf1-11e3-b214-00505601040c",
+            "Name": "福斯家庭電影台 HD",
+            "Sort": "67",
+            "Url": "http://wc5.ottclub.info:1935/live/c202.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb29ca-eaed-11e3-b214-00505601040c",
+        "Name": "Universal HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "68",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "4016ee3a-eaf1-11e3-b214-00505601040c",
+            "Name": "Universal HD",
+            "Sort": "68",
+            "Url": "http://wc5.ottclub.info:1935/live/c203.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb2a74-eaed-11e3-b214-00505601040c",
+        "Name": "Star Movies HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "69",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "4016f5c4-eaf1-11e3-b214-00505601040c",
+            "Name": "Star Movies HD",
+            "Sort": "69",
+            "Url": "http://wc5.ottclub.info:1935/live/c246.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb2b14-eaed-11e3-b214-00505601040c",
+        "Name": "CINEMAX",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "70",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "4016fa7e-eaf1-11e3-b214-00505601040c",
+            "Name": "CINEMAX",
+            "Sort": "70",
+            "Url": "http://wc1.ottclub.info:1935/live/c199.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb2bb4-eaed-11e3-b214-00505601040c",
+        "Name": "緯來育樂台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "71",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "4016ff1a-eaf1-11e3-b214-00505601040c",
+            "Name": "緯來育樂台",
+            "Sort": "71",
+            "Url": "http://wc1.ottclub.info:1935/live/c166.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb2c54-eaed-11e3-b214-00505601040c",
+        "Name": "緯來體育台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "72",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "401703fc-eaf1-11e3-b214-00505601040c",
+            "Name": "緯來體育台 HD",
+            "Sort": "72",
+            "Url": "http://wc5.ottclub.info:1935/live/c163.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb2cf4-eaed-11e3-b214-00505601040c",
+        "Name": "FOX3 體育台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "73",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "40170abe-eaf1-11e3-b214-00505601040c",
+            "Name": "FOX3 HD",
+            "Sort": "73",
+            "Url": "http://wc1.ottclub.info:1935/live/c230.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb2d94-eaed-11e3-b214-00505601040c",
+        "Name": "衛視體育台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "74",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "40171054-eaf1-11e3-b214-00505601040c",
+            "Name": "衛視體育台 HD",
+            "Sort": "74",
+            "Url": "http://wc5.ottclub.info:1935/live/c165.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb2ed4-eaed-11e3-b214-00505601040c",
+        "Name": "緯來日本台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "75",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "40171fb8-eaf1-11e3-b214-00505601040c",
+            "Name": "緯來日本台",
+            "Sort": "75",
+            "Url": "http://wc1.ottclub.info:1935/live/c164.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "6fbb2f74-eaed-11e3-b214-00505601040c",
+        "Name": "愛爾達體育台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "76",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "40172634-eaf1-11e3-b214-00505601040c",
+            "Name": "愛爾達體育台 HD",
+            "Sort": "76",
+            "Url": "http://wc5.ottclub.info:1935/live/c217.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547fd8a-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "國興衛視台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "77",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3cabb9-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "國興衛視台",
+            "Sort": "77",
+            "Url": "http://wc1.ottclub.info:1935/live/c213.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547fddb-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "FOX HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "78",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3cac3d-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "FOX HD",
+            "Sort": "78",
+            "Url": "http://wc1.ottclub.info:1935/live/c231.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "a547fe2c-ccb2-11e3-855c-56b55c4f22cc",
+        "Name": "HBO 原創 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "79",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "7d3cacc1-ccb5-11e3-855c-56b55c4f22cc",
+            "Name": "HBO 原創 HD",
+            "Sort": "79",
+            "Url": "http://wc5.ottclub.info:1935/live/c190.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "8d3f24cf-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "HBO 強檔 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "80",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "c91deb4d-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "HBO 強檔 HD",
+            "Sort": "80",
+            "Url": "http://wc1.ottclub.info:1935/live/c184.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "8d3f252d-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "HBO 溫馨 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "81",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "c91debd8-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "HBO 溫馨 HD",
+            "Sort": "81",
+            "Url": "http://wc1.ottclub.info:1935/live/c186.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "8d3f2583-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "博斯高球 II 台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "82",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "c91dec61-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "博斯高球 II 台 HD",
+            "Sort": "82",
+            "Url": "http://wc1.ottclub.info:1935/live/c209.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "8d3f25d9-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "ANIMAX HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "83",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "c91decd9-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "ANIMAX HD",
+            "Sort": "83",
+            "Url": "http://wc1.ottclub.info:1935/live/c208.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "8d3f2631-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "GOLF CHANNAL HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "84",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "c91ded51-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "GOLF CHANNAL HD",
+            "Sort": "84",
+            "Url": "http://wc1.ottclub.info:1935/live/c222.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "8d3f2686-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "ASN 全美運動台 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "-",
+        "Content": "",
+        "Sort": "85",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "c91dedce-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "ASN 全美運動台 HD",
+            "Sort": "85",
+            "Url": "http://wc1.ottclub.info:1935/live/c221.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f2686-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "BabyTV HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "86",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861deace-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "BabyTV HD",
+            "Sort": "86",
+            "Url": "http://wc1.ottclub.info:1935/live/c224.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f2687-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "Disney Junior HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "87",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "871debce-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "Disney Junior",
+            "Sort": "87",
+            "Url": "http://wc1.ottclub.info:1935/live/c223.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f2688-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "MTV HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "88",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "871decce-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "MTV HD",
+            "Sort": "88",
+            "Url": "http://wc1.ottclub.info:1935/live/c241.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f2689-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "霹靂台灣台",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "89",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "881dedce-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "霹靂台灣台",
+            "Sort": "89",
+            "Url": "http://wc1.ottclub.info:1935/live/c173.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f2690-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "罪案偵緝頻道 HD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "90",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "901deece-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "罪案偵緝頻道 HD",
+            "Sort": "90",
+            "Url": "http://wc1.ottclub.info:1935/live/c058.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f2691-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "NHK",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "91",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "911defce-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "NHK",
+            "Sort": "91",
+            "Url": "http://wc1.ottclub.info:1935/live/c060.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f2692-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "強檔電影",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "92",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "921de1ce-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "強檔電影",
+            "Sort": "92",
+            "Url": "http://wc2.ottclub.info:1935/live/c987.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f2693-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "港台強檔",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "93",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "931de2ce-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "港台強檔",
+            "Sort": "93",
+            "Url": "http://wc2.ottclub.info:1935/live/c985.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f2694-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "行屍走肉",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "94",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "941de3ce-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "歐美電影",
+            "Sort": "94",
+            "Url": "http://wc2.ottclub.info:1935/live/c981.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f2695-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "好球天團第一季",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "95",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "951de4ce-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "行屍走肉",
+            "Sort": "95",
+            "Url": "http://wc2.ottclub.info:1935/live/c982.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f2696-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "回來吧大叔",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "96",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "961de6ce-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "回來吧大叔",
+            "Sort": "96",
+            "Url": "http://wc2.ottclub.info:1935/live/c983.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f2697-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "海賊王",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "97",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "971de5ce-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "海賊王",
+            "Sort": "97",
+            "Url": "http://wc2.ottclub.info:1935/live/c307.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f2698-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "BS1",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "98",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "981de7ce-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "BS1",
+            "Sort": "98",
+            "Url": "http://wc2.ottclub.info:1935/live/c004.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f2699-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "BSプレミアム",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "99",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "991de8ce-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "BSプレミアム",
+            "Sort": "99",
+            "Url": "http://wc2.ottclub.info:1935/live/c003.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a0-d6e3-11e3-9fa3-56b55c4f22cc",
+        "Name": "浙江衛視",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "100",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "a01de9ce-d6e4-11e3-9fa3-56b55c4f22cc",
+            "Name": "測試",
+            "Sort": "100",
+            "Url": "http://wc2.ottclub.info:1935/live/c000.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2501",
+        "Name": "CNN 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "501",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de501-d6e4-11e3-9fa3-56b55c4f2501",
+            "Name": "CNN 標清",
+            "Sort": "501",
+            "Url": "http://wc3.ottclub.info:1935/live/c675.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2502",
+        "Name": "BBC 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "502",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de502-d6e4-11e3-9fa3-56b55c4f2502",
+            "Name": "BBC 標清",
+            "Sort": "502",
+            "Url": "http://wc3.ottclub.info:1935/live/c677.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2503",
+        "Name": "BBC lifestyle 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "503",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de503-d6e4-11e3-9fa3-56b55c4f2503",
+            "Name": "BBC lifestyle 標清",
+            "Sort": "503",
+            "Url": "http://wc3.ottclub.info:1935/live/c719.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2504",
+        "Name": "公視 HD 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "504",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de504-d6e4-11e3-9fa3-56b55c4f2504",
+            "Name": "公視 HD 標清",
+            "Sort": "504",
+            "Url": "http://wc3.ottclub.info:1935/live/c739.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2506",
+        "Name": "Z 頻道標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "505",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de506-d6e4-11e3-9fa3-56b55c4f2506",
+            "Name": "Z 頻道標清",
+            "Sort": "505",
+            "Url": "http://wc3.ottclub.info:1935/live/c729.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2505",
+        "Name": "民視 HD 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "506",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de505-d6e4-11e3-9fa3-56b55c4f2505",
+            "Name": "民視 HD 標清",
+            "Sort": "506",
+            "Url": "http://wc3.ottclub.info:1935/live/c692.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2508",
+        "Name": "FSTV 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "507",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de508-d6e4-11e3-9fa3-56b55c4f2508",
+            "Name": "FSTV 標清",
+            "Sort": "507",
+            "Url": "http://wc3.ottclub.info:1935/live/c693.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2507",
+        "Name": "台視綜合標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "508",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de507-d6e4-11e3-9fa3-56b55c4f2507",
+            "Name": "台視綜合標清",
+            "Sort": "508",
+            "Url": "http://wc3.ottclub.info:1935/live/c671.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2510",
+        "Name": "中視 HD 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "509",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de510-d6e4-11e3-9fa3-56b55c4f2510",
+            "Name": "中視 HD 標清",
+            "Sort": "509",
+            "Url": "http://wc3.ottclub.info:1935/live/c674.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2509",
+        "Name": "BRAVO 菁采台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "510",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de509-d6e4-11e3-9fa3-56b55c4f2509",
+            "Name": "BRAVO 菁采台標清",
+            "Sort": "510",
+            "Url": "http://wc3.ottclub.info:1935/live/c701.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2512",
+        "Name": "大愛 HD 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "511",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de512-d6e4-11e3-9fa3-56b55c4f2512",
+            "Name": "大愛 HD 標清",
+            "Sort": "511",
+            "Url": "http://wc3.ottclub.info:1935/live/c559.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2511",
+        "Name": "華視 HD 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "512",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de511-d6e4-11e3-9fa3-56b55c4f2511",
+            "Name": "華視 HD 標清",
+            "Sort": "512",
+            "Url": "http://wc3.ottclub.info:1935/live/c672.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2513",
+        "Name": "探索科學台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "513",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de513-d6e4-11e3-9fa3-56b55c4f2513",
+            "Name": "探索科學台標清",
+            "Sort": "513",
+            "Url": "http://wc3.ottclub.info:1935/live/c747.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2514",
+        "Name": "DMAX 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "514",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de514-d6e4-11e3-9fa3-56b55c4f2514",
+            "Name": "DMAX 標清",
+            "Sort": "514",
+            "Url": "http://wc3.ottclub.info:1935/live/c700.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2515",
+        "Name": "EVE 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "515",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de515-d6e4-11e3-9fa3-56b55c4f2515",
+            "Name": "EVE 標清",
+            "Sort": "515",
+            "Url": "http://wc3.ottclub.info:1935/live/c743.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2516",
+        "Name": "國家地理野生台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "516",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de516-d6e4-11e3-9fa3-56b55c4f2516",
+            "Name": "國家地理野生台標清",
+            "Sort": "516",
+            "Url": "http://wc3.ottclub.info:1935/live/c707.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2517",
+        "Name": "國家地理優人台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "517",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de517-d6e4-11e3-9fa3-56b55c4f2517",
+            "Name": "國家地理優人台標清",
+            "Sort": "517",
+            "Url": "http://wc3.ottclub.info:1935/live/c745.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2518",
+        "Name": "國家地理頻道台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "518",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de518-d6e4-11e3-9fa3-56b55c4f2518",
+            "Name": "國家地理頻道台標清",
+            "Sort": "518",
+            "Url": "http://wc3.ottclub.info:1935/live/c706.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2519",
+        "Name": "Discovery 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "519",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de519-d6e4-11e3-9fa3-56b55c4f2519",
+            "Name": "Discovery 標清",
+            "Sort": "519",
+            "Url": "http://wc3.ottclub.info:1935/live/c744.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2520",
+        "Name": "TLC 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "520",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de520-d6e4-11e3-9fa3-56b55c4f2520",
+            "Name": "TLC 標清",
+            "Sort": "520",
+            "Url": "http://wc3.ottclub.info:1935/live/c670.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2521",
+        "Name": "動物星球台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "521",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de521-d6e4-11e3-9fa3-56b55c4f2521",
+            "Name": "動物星球台標清",
+            "Sort": "521",
+            "Url": "http://wc3.ottclub.info:1935/live/c676.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2522",
+        "Name": "卡通頻道台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "522",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de522-d6e4-11e3-9fa3-56b55c4f2522",
+            "Name": "卡通頻道台標清",
+            "Sort": "522",
+            "Url": "http://wc3.ottclub.info:1935/live/c678.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2523",
+        "Name": "迪士尼頻道台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "523",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de523-d6e4-11e3-9fa3-56b55c4f2523",
+            "Name": "迪士尼頻道台標清",
+            "Sort": "523",
+            "Url": "http://wc3.ottclub.info:1935/live/c698.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2524",
+        "Name": "MOMO 親子台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "524",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de524-d6e4-11e3-9fa3-56b55c4f2524",
+            "Name": "MOMO 親子台標清",
+            "Sort": "524",
+            "Url": "http://wc3.ottclub.info:1935/live/c668.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2525",
+        "Name": "東森幼幼台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "525",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de525-d6e4-11e3-9fa3-56b55c4f2525",
+            "Name": "東森幼幼台標清",
+            "Sort": "525",
+            "Url": "http://wc3.ottclub.info:1935/live/c727.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2526",
+        "Name": "緯來綜合台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "526",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de526-d6e4-11e3-9fa3-56b55c4f2526",
+            "Name": "緯來綜合台標清",
+            "Sort": "526",
+            "Url": "http://wc3.ottclub.info:1935/live/c735.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2527",
+        "Name": "八大第一台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "527",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de527-d6e4-11e3-9fa3-56b55c4f2527",
+            "Name": "八大第一台標清",
+            "Sort": "527",
+            "Url": "http://wc3.ottclub.info:1935/live/c657.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2528",
+        "Name": "八大綜合台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "528",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de528-d6e4-11e3-9fa3-56b55c4f2528",
+            "Name": "八大綜合台標清",
+            "Sort": "528",
+            "Url": "http://wc3.ottclub.info:1935/live/c697.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2529",
+        "Name": "三立台灣台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "529",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de529-d6e4-11e3-9fa3-56b55c4f2529",
+            "Name": "三立台灣台標清",
+            "Sort": "529",
+            "Url": "http://wc3.ottclub.info:1935/live/c696.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2530",
+        "Name": "三立都會台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "530",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de530-d6e4-11e3-9fa3-56b55c4f2530",
+            "Name": "三立都會台標清",
+            "Sort": "530",
+            "Url": "http://wc3.ottclub.info:1935/live/c659.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2531",
+        "Name": "衛視中文台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "531",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de531-d6e4-11e3-9fa3-56b55c4f2531",
+            "Name": "衛視中文台標清",
+            "Sort": "531",
+            "Url": "http://wc3.ottclub.info:1935/live/c658.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2532",
+        "Name": "東森綜合台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "532",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de532-d6e4-11e3-9fa3-56b55c4f2532",
+            "Name": "東森綜合台標清",
+            "Sort": "532",
+            "Url": "http://wc3.ottclub.info:1935/live/c737.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2533",
+        "Name": "超視台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "533",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de533-d6e4-11e3-9fa3-56b55c4f2533",
+            "Name": "超視台標清",
+            "Sort": "533",
+            "Url": "http://wc3.ottclub.info:1935/live/c695.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2534",
+        "Name": "Channal M 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "534",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de534-d6e4-11e3-9fa3-56b55c4f2534",
+            "Name": "Channal M 標清",
+            "Sort": "534",
+            "Url": "http://wc3.ottclub.info:1935/live/c740.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2535",
+        "Name": "KMTV 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "535",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de535-d6e4-11e3-9fa3-56b55c4f2535",
+            "Name": "KMTV 標清",
+            "Sort": "535",
+            "Url": "http://wc3.ottclub.info:1935/live/c718.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2536",
+        "Name": "中天綜合台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "536",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de536-d6e4-11e3-9fa3-56b55c4f2536",
+            "Name": "中天綜合台標清",
+            "Sort": "536",
+            "Url": "http://wc3.ottclub.info:1935/live/c720.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2537",
+        "Name": "東風衛視台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "537",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de537-d6e4-11e3-9fa3-56b55c4f2537",
+            "Name": "東風衛視台標清",
+            "Sort": "537",
+            "Url": "http://wc3.ottclub.info:1935/live/c714.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2538",
+        "Name": "Much 台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "538",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de538-d6e4-11e3-9fa3-56b55c4f2538",
+            "Name": "MUCH 台標清",
+            "Sort": "538",
+            "Url": "http://wc3.ottclub.info:1935/live/c726.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2539",
+        "Name": "中天娛樂台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "539",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de539-d6e4-11e3-9fa3-56b55c4f2539",
+            "Name": "中天娛樂台標清",
+            "Sort": "539",
+            "Url": "http://wc3.ottclub.info:1935/live/c728.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2540",
+        "Name": "東森戲劇台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "540",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de540-d6e4-11e3-9fa3-56b55c4f2540",
+            "Name": "東森戲劇台標清",
+            "Sort": "540",
+            "Url": "http://wc3.ottclub.info:1935/live/c669.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2541",
+        "Name": "八大戲劇台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "541",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de541-d6e4-11e3-9fa3-56b55c4f2541",
+            "Name": "八大戲劇台標清",
+            "Sort": "541",
+            "Url": "http://wc3.ottclub.info:1935/live/c715.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f542c",
+        "Name": "TVBS 歡樂台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "542",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de542-d6e4-11e3-9fa3-56b55c4f2542",
+            "Name": "TVBS 歡樂台標清",
+            "Sort": "542",
+            "Url": "http://wc3.ottclub.info:1935/live/c660.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2543",
+        "Name": "緯來戲劇台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "543",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de543-d6e4-11e3-9fa3-56b55c4f2543",
+            "Name": "緯來戲劇台標清",
+            "Sort": "543",
+            "Url": "http://wc3.ottclub.info:1935/live/c710.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2544",
+        "Name": "星衛娛樂台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "544",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de544-d6e4-11e3-9fa3-56b55c4f2544",
+            "Name": "星衛娛樂台標清",
+            "Sort": "544",
+            "Url": "http://wc3.ottclub.info:1935/live/c742.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2545",
+        "Name": "衛視合家歡台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "545",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de545-d6e4-11e3-9fa3-56b55c4f2545",
+            "Name": "衛視合家歡台標清",
+            "Sort": "545",
+            "Url": "http://wc3.ottclub.info:1935/live/c711.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2546",
+        "Name": "JET 綜合台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "546",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de546-d6e4-11e3-9fa3-56b55c4f2546",
+            "Name": "JET 綜合台標清",
+            "Sort": "546",
+            "Url": "http://wc3.ottclub.info:1935/live/c725.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2547",
+        "Name": "DIVA 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "547",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de547-d6e4-11e3-9fa3-56b55c4f2547",
+            "Name": "DIVA 標清",
+            "Sort": "547",
+            "Url": "http://wc3.ottclub.info:1935/live/c656.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2548",
+        "Name": "SYFY 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "548",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de548-d6e4-11e3-9fa3-56b55c4f2548",
+            "Name": "SYFY 標清",
+            "Sort": "548",
+            "Url": "http://wc3.ottclub.info:1935/live/c716.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2549",
+        "Name": "壹電視新聞台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "549",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de549-d6e4-11e3-9fa3-56b55c4f2549",
+            "Name": "壹電視新聞台標清",
+            "Sort": "549",
+            "Url": "http://wc3.ottclub.info:1935/live/c732.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2550",
+        "Name": "年代新聞台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "550",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de550-d6e4-11e3-9fa3-56b55c4f2550",
+            "Name": "年代新聞台標清",
+            "Sort": "550",
+            "Url": "http://wc3.ottclub.info:1935/live/c736.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2551",
+        "Name": "東森新聞台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "551",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de551-d6e4-11e3-9fa3-56b55c4f2551",
+            "Name": "東森新聞台標清",
+            "Sort": "551",
+            "Url": "http://wc3.ottclub.info:1935/live/c691.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2552",
+        "Name": "中天新聞台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "552",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de552-d6e4-11e3-9fa3-56b55c4f2552",
+            "Name": "中天新聞台標清",
+            "Sort": "552",
+            "Url": "http://wc3.ottclub.info:1935/live/c688.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2553",
+        "Name": "民視新聞台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "553",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de553-d6e4-11e3-9fa3-56b55c4f2553",
+            "Name": "民視新聞台標清",
+            "Sort": "553",
+            "Url": "http://wc3.ottclub.info:1935/live/c687.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2554",
+        "Name": "三立新聞台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "554",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de554-d6e4-11e3-9fa3-56b55c4f2554",
+            "Name": "三立新聞台標清",
+            "Sort": "554",
+            "Url": "http://wc3.ottclub.info:1935/live/c661.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2555",
+        "Name": "TVBS 新聞台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "555",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de555-d6e4-11e3-9fa3-56b55c4f2555",
+            "Name": "TVBS 新聞台標清",
+            "Sort": "555",
+            "Url": "http://wc3.ottclub.info:1935/live/c662.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2556",
+        "Name": "TVBS 台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "556",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de556-d6e4-11e3-9fa3-56b55c4f2556",
+            "Name": "TVBS 台標清",
+            "Sort": "556",
+            "Url": "http://wc3.ottclub.info:1935/live/c689.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2557",
+        "Name": "東森財經新聞台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "557",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de557-d6e4-11e3-9fa3-56b55c4f2557",
+            "Name": "東森財經新聞台標清",
+            "Sort": "557",
+            "Url": "http://wc3.ottclub.info:1935/live/c733.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2558",
+        "Name": "非凡新聞台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "558",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de558-d6e4-11e3-9fa3-56b55c4f2558",
+            "Name": "非凡新聞台標清",
+            "Sort": "558",
+            "Url": "http://wc3.ottclub.info:1935/live/c712.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2559",
+        "Name": "FOX CRIME 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "559",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de559-d6e4-11e3-9fa3-56b55c4f2559",
+            "Name": "FOX CRIME 標清",
+            "Sort": "559",
+            "Url": "http://wc3.ottclub.info:1935/live/c655.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2560",
+        "Name": "FX 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "560",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de560-d6e4-11e3-9fa3-56b55c4f2560",
+            "Name": "FX 標清",
+            "Sort": "560",
+            "Url": "http://wc3.ottclub.info:1935/live/c738.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2561",
+        "Name": "衛視電影台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "561",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de561-d6e4-11e3-9fa3-56b55c4f2561",
+            "Name": "衛視電影台標清",
+            "Sort": "561",
+            "Url": "http://wc3.ottclub.info:1935/live/c667.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2562",
+        "Name": "東森電影台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "562",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de562-d6e4-11e3-9fa3-56b55c4f2562",
+            "Name": "東森電影台標清",
+            "Sort": "562",
+            "Url": "http://wc3.ottclub.info:1935/live/c734.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2563",
+        "Name": "星衛電影台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "563",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de563-d6e4-11e3-9fa3-56b55c4f2563",
+            "Name": "星衛電影台標清",
+            "Sort": "563",
+            "Url": "http://wc3.ottclub.info:1935/live/c705.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2564",
+        "Name": "美亞電影台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "564",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de564-d6e4-11e3-9fa3-56b55c4f2564",
+            "Name": "美亞電影台標清",
+            "Sort": "564",
+            "Url": "http://wc3.ottclub.info:1935/live/c704.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2565",
+        "Name": "HBO 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "565",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de565-d6e4-11e3-9fa3-56b55c4f2565",
+            "Name": "HBO 標清",
+            "Sort": "565",
+            "Url": "http://wc3.ottclub.info:1935/live/c685.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2566",
+        "Name": "東森洋片台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "566",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de566-d6e4-11e3-9fa3-56b55c4f2566",
+            "Name": "東森洋片台標清",
+            "Sort": "566",
+            "Url": "http://wc3.ottclub.info:1935/live/c694.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2567",
+        "Name": "福斯家庭電影台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "567",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de567-d6e4-11e3-9fa3-56b55c4f2567",
+            "Name": "福斯家庭電影台標清",
+            "Sort": "567",
+            "Url": "http://wc3.ottclub.info:1935/live/c702.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2568",
+        "Name": "Universal 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "568",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de568-d6e4-11e3-9fa3-56b55c4f2568",
+            "Name": "Universal 標清",
+            "Sort": "568",
+            "Url": "http://wc3.ottclub.info:1935/live/c703.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2569",
+        "Name": "Star Movies 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "569",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de569-d6e4-11e3-9fa3-56b55c4f2569",
+            "Name": "Star Movies 標清",
+            "Sort": "569",
+            "Url": "http://wc3.ottclub.info:1935/live/c746.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2570",
+        "Name": "CINEMAX 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "570",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de570-d6e4-11e3-9fa3-56b55c4f2570",
+            "Name": "CINEMAX 標清",
+            "Sort": "570",
+            "Url": "http://wc3.ottclub.info:1935/live/c699.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2571",
+        "Name": "緯來育樂台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "571",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de571-d6e4-11e3-9fa3-56b55c4f2571",
+            "Name": "緯來育樂台標清",
+            "Sort": "571",
+            "Url": "http://wc3.ottclub.info:1935/live/c666.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2572",
+        "Name": "緯來體育台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "572",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de572-d6e4-11e3-9fa3-56b55c4f2572",
+            "Name": "緯來體育台標清",
+            "Sort": "572",
+            "Url": "http://wc3.ottclub.info:1935/live/c663.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2573",
+        "Name": "FOX3 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "573",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de573-d6e4-11e3-9fa3-56b55c4f2573",
+            "Name": "FOX3 標清",
+            "Sort": "573",
+            "Url": "http://wc3.ottclub.info:1935/live/c730.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2574",
+        "Name": "衛視體育台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "574",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de574-d6e4-11e3-9fa3-56b55c4f2574",
+            "Name": "衛視體育台標清",
+            "Sort": "574",
+            "Url": "http://wc3.ottclub.info:1935/live/c665.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2575",
+        "Name": "緯來日本台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "575",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de575-d6e4-11e3-9fa3-56b55c4f2575",
+            "Name": "緯來日本台標清",
+            "Sort": "575",
+            "Url": "http://wc3.ottclub.info:1935/live/c664.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2576",
+        "Name": "愛爾達體育台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "576",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de576-d6e4-11e3-9fa3-56b55c4f2576",
+            "Name": "愛爾達體育台標清",
+            "Sort": "576",
+            "Url": "http://wc3.ottclub.info:1935/live/c717.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2577",
+        "Name": "國興衛視台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "577",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de577-d6e4-11e3-9fa3-56b55c4f2577",
+            "Name": "國興衛視台標清",
+            "Sort": "577",
+            "Url": "http://wc3.ottclub.info:1935/live/c713.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2578",
+        "Name": "FOX 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "578",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de578-d6e4-11e3-9fa3-56b55c4f2578",
+            "Name": "FOX 標清",
+            "Sort": "578",
+            "Url": "http://wc3.ottclub.info:1935/live/c731.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2579",
+        "Name": "HBO 原創台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "579",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de579-d6e4-11e3-9fa3-56b55c4f2579",
+            "Name": "HBO 原創台標清",
+            "Sort": "579",
+            "Url": "http://wc3.ottclub.info:1935/live/c690.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2580",
+        "Name": "HBO 強檔台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "580",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de580-d6e4-11e3-9fa3-56b55c4f2580",
+            "Name": "HBO 強檔台標清",
+            "Sort": "580",
+            "Url": "http://wc3.ottclub.info:1935/live/c684.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2581",
+        "Name": "HBO 溫馨台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "581",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de581-d6e4-11e3-9fa3-56b55c4f2581",
+            "Name": "HBO 溫馨台標清",
+            "Sort": "581",
+            "Url": "http://wc3.ottclub.info:1935/live/c686.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2582",
+        "Name": "博斯高球 II 台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "582",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de582-d6e4-11e3-9fa3-56b55c4f2582",
+            "Name": "博斯高球 II 台標清",
+            "Sort": "582",
+            "Url": "http://wc3.ottclub.info:1935/live/c709.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2583",
+        "Name": "ANIMAX 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "583",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de583-d6e4-11e3-9fa3-56b55c4f2583",
+            "Name": "ANIMAX 標清",
+            "Sort": "583",
+            "Url": "http://wc3.ottclub.info:1935/live/c708.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2584",
+        "Name": "GOLF CHANNAL 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "584",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de584-d6e4-11e3-9fa3-56b55c4f2584",
+            "Name": "GOLF CHANNAL 標清",
+            "Sort": "584",
+            "Url": "http://wc3.ottclub.info:1935/live/c722.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2585",
+        "Name": "ASN 全美運動標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "585",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de585-d6e4-11e3-9fa3-56b55c4f2585",
+            "Name": "ASN 全美運動標清",
+            "Sort": "585",
+            "Url": "http://wc3.ottclub.info:1935/live/c721.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2586",
+        "Name": "BabyTV 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "586",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de586-d6e4-11e3-9fa3-56b55c4f2586",
+            "Name": "BabyTV 標清",
+            "Sort": "586",
+            "Url": "http://wc3.ottclub.info:1935/live/c724.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2587",
+        "Name": "Disney Junior 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "587",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de587-d6e4-11e3-9fa3-56b55c4f2587",
+            "Name": "Disney Junior 標清",
+            "Sort": "587",
+            "Url": "http://wc3.ottclub.info:1935/live/c723.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2588",
+        "Name": "MTV 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "588",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de588-d6e4-11e3-9fa3-56b55c4f2588",
+            "Name": "MTV 標清",
+            "Sort": "588",
+            "Url": "http://wc3.ottclub.info:1935/live/c741.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2589",
+        "Name": "霹靂台灣台標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "589",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de589-d6e4-11e3-9fa3-56b55c4f2589",
+            "Name": "霹靂台灣台標清",
+            "Sort": "589",
+            "Url": "http://wc3.ottclub.info:1935/live/c673.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2590",
+        "Name": "罪案偵緝頻道標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "590",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de590-d6e4-11e3-9fa3-56b55c4f2590",
+            "Name": "罪案偵緝頻道標清",
+            "Sort": "590",
+            "Url": "http://wc3.ottclub.info:1935/live/c558.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2591",
+        "Name": "NHK 標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "591",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de591-d6e4-11e3-9fa3-56b55c4f2591",
+            "Name": "NHK 標清",
+            "Sort": "591",
+            "Url": "http://wc3.ottclub.info:1935/live/c560.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2592",
+        "Name": "強檔電影標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "592",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de592-d6e4-11e3-9fa3-56b55c4f2592",
+            "Name": "強檔電影標清",
+            "Sort": "592",
+            "Url": "http://wc2.ottclub.info:1935/live/c987.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2593",
+        "Name": "港台強檔標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "593",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de593-d6e4-11e3-9fa3-56b55c4f2593",
+            "Name": "港台強檔標清",
+            "Sort": "593",
+            "Url": "http://wc2.ottclub.info:1935/live/c985.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2594",
+        "Name": "歐美電影標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "594",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de594-d6e4-11e3-9fa3-56b55c4f2594",
+            "Name": "歐美電影標清",
+            "Sort": "594",
+            "Url": "http://wc2.ottclub.info:1935/live/c981.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2595",
+        "Name": "行屍走肉標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "595",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de595-d6e4-11e3-9fa3-56b55c4f2595",
+            "Name": "行屍走肉標清",
+            "Sort": "595",
+            "Url": "http://wc2.ottclub.info:1935/live/c982.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2596",
+        "Name": "回來吧大叔標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "596",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de596-d6e4-11e3-9fa3-56b55c4f2596",
+            "Name": "回來吧大叔標清",
+            "Sort": "596",
+            "Url": "http://wc2.ottclub.info:1935/live/c983.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2597",
+        "Name": "海賊王標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "597",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de597-d6e4-11e3-9fa3-56b55c4f2597",
+            "Name": "海賊王標清",
+            "Sort": "597",
+            "Url": "http://wc2.ottclub.info:1935/live/c307.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2598",
+        "Name": "BS1 SD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "598",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de598-d6e4-11e3-9fa3-56b55c4f2598",
+            "Name": "BS1 SD",
+            "Sort": "598",
+            "Url": "http://wc2.ottclub.info:1935/live/c004.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2599",
+        "Name": "BSプレミアム SD",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "599",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de599-d6e4-11e3-9fa3-56b55c4f2599",
+            "Name": "BSプレミアム SD",
+            "Sort": "599",
+            "Url": "http://wc2.ottclub.info:1935/live/c003.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }, {
+        "ChannelListGUID": "583f26a3-d6e3-11e3-9fa3-56b55c4f2600",
+        "Name": "測試標清",
+        "Photo": "http://api.ottclub.info/api/images/ptv/yes.png",
+        "PhotoHeight": "http://api.ottclub.info/api/images/dtv/free.png",
+        "PhotoWidth": "",
+        "Title": "",
+        "Content": "",
+        "Sort": "600",
+        "MediaSource": "1",
+        "MediaCount": 1,
+        "Media": [{
+            "ChannelMediaGUID": "861de600-d6e4-11e3-9fa3-56b55c4f2600",
+            "Name": "測試標清",
+            "Sort": "600",
+            "Url": "http://wc2.ottclub.info:1935/live/c000.stream/playlist.m3u8?a=576c182f&b=rYFUXxRgPi6krRJldXw9BQ"
+        }],
+        "MediaMode": "0",
+        "MultiPart": false,
+        "MultiPartInfo": ""
+    }]
+}
